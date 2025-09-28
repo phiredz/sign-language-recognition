@@ -105,6 +105,3 @@ python real_time_prediction.py
 * Use **CNN + LSTM** for recognizing sequences of gestures (full words/sentences).
 * Add support for more letters and dynamic gestures.
 * Integrate with speech synthesis to "speak" recognized words.
-
----
-
