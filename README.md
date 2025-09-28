@@ -108,8 +108,3 @@ python real_time_prediction.py
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
-```
